@@ -2,6 +2,10 @@ asdasdasd123
 wasdwasd324
 asdasddasss
 123123123
+<<<<<<< HEAD
 8888888888
 123
 432
+=======
+8888888888
+>>>>>>> bff0c62 (no message)
