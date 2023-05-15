@@ -1,7 +1,11 @@
 asdasdasd123
+<<<<<<< HEAD
 wasdwasd324
 asdasddasss
 123123123
 8888888888
 123
 432
+=======
+wasdwasd324
+>>>>>>> ca7f0fe (no message)
