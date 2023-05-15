@@ -1,16 +1,7 @@
 asdasdasd123
-<<<<<<< HEAD
-<<<<<<< HEAD
 wasdwasd324
 asdasddasss
 123123123
 8888888888
 123
 432
-=======
-wasdwasd324
->>>>>>> ca7f0fe (no message)
-=======
-wasdwasd324asdasddasss
->>>>>>> fd4abf9 (no message)
-123
